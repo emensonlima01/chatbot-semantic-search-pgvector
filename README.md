@@ -1,4 +1,4 @@
-# Prova de Conceito: [Nome da Sua PoC Aqui]
+# Prova de Conceito: CHATBOT usando busca semantica com PGVECTOR
 
 ## Visão Geral (Nível de Negócio)
 
